@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi have a niceday 👋
 
 <!--
 **bun31/bun31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
